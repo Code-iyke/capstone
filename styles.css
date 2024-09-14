@@ -1,0 +1,107 @@
+
+.sect {
+	margin: 0;
+	font-family: fantasy;
+}
+
+h1{
+	font-family: "Montserrat";
+	color: purple;
+    text-align: center;
+}
+
+.foto{
+    border-radius: 25%;
+    position: relative;
+    left: 45%;
+    height: 100px;
+}
+
+.info{
+    text-align: right;
+}
+
+.cnt{
+    text-align: left;
+}
+
+.work{
+    text-align: center;
+    color: purple;
+    font-weight: bold;
+}
+
+.container-fluid{
+    color:  #700303;
+}
+
+.h1-foto-wrk{
+    background-color: rgb(39, 211, 197);
+    padding: 0px;
+}
+
+.su-ed{
+    background-color: burlywood;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.summ{
+    color: whitesmoke;
+}
+
+.aco{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: purple;
+}
+.sch{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: purple;
+}
+.ssc{
+    color: white;
+    font-size: 1.3rem;
+}
+.deg{
+    color: white;
+    font-size: 1.3rem;
+}
+
+.wrkE{
+    background-color: rgb(127, 165, 234);
+    text-align: center;
+}
+
+.att{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color:springgreen;
+}
+
+.rohlik{
+    color: firebrick;
+    text-align: left;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.skl{
+    text-align: right;
+    color: rgb(11, 63, 184);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.awd{
+    text-align: center;
+    font-family: fantasy;
+    font-weight: bolder;
+    color: #3f0ce6;
+}
+.Awd{
+    color: rgb(16, 226, 156);
+    font-weight: bold;
+}
+.dwn-cl{
+    background-color: #e75d5d;
+}
+.ch{
+    background-color: #700303;
+}
